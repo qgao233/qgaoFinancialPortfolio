@@ -9,4 +9,5 @@
   * [4 股票交易规则](chapter1/section4/index.md)
   * [5 看盘界面](chapter1/section5/index.md)
   * [6 高低位买卖常识](chapter1/section6/index.md)
+  * [7 盘口与买卖机制](chapter1/section7/index.md)
 * [行业术语](chapter2/index.md)
