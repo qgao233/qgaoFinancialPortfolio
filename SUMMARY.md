@@ -12,4 +12,4 @@
   * [7 盘口与买卖机制](chapter1/section7/index.md)
   * [8 股市行业术语](chapter1/section8/index.md)
 * [期货入门]()
-  * [1 期货基础](chapter2/section1/index.md)
+  * [1 什么是期货](chapter2/section1/index.md)
